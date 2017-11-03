@@ -12,7 +12,6 @@ dataLayer.push({
     'language': 'EN',
     'currency': 'GBP',
     'country': 'UK'
-
 });
 //script block ends
 //GTM snippet goes here

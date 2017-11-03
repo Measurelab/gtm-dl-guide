@@ -18,7 +18,7 @@ This is an example event with sample code to indicate how pushing values to the 
 
 ## Enhanced Ecommerce
 
-We chose to have all EE actions sent as events to provide a simple, unified approach which will prevent conflicts with some values being declared and some being pushed etc.
+All EE actions are being sent as events to provide a simple, unified approach which will prevent conflicts with some values being declared and some being pushed etc.
 
 ### [Transactions](/ec-transaction.js)
 
