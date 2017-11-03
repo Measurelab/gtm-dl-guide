@@ -10,9 +10,6 @@ dataLayer.push({
     'language': 'EN',
     'currency': 'GBP',
     'country': 'UK',
-    'user_id': '',            // on the previous lush website this was customer_id
-    'login_status': '',
-    'user_type': ''           // can be e.g. “Customer” or “Staff”
 
 });
 
