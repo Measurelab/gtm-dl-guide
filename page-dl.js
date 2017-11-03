@@ -1,3 +1,5 @@
+//Before the values are pushed, the data layer is declared—this is to prevent any possibility of multiple declarations
+//script block begins
 window.dataLayer = window.dataLayer || [];
 
 dataLayer.push({
@@ -12,5 +14,5 @@ dataLayer.push({
     'country': 'UK'
 
 });
-
+//script block ends
 //GTM snippet goes here

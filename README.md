@@ -8,6 +8,8 @@ Some of these actions or values may not be relevant to you—for more specifics 
 
 This is for values we want in place *before* GTM loads so they can be e.g. sent as custom dimensions with a pageview.
 
+Before the values are pushed, the data layer is declared—this is to prevent any possibility of multiple declarations—further discussed [here](https://www.simoahava.com/gtm-tips/datalayer-declaration-vs-push/).
+
 **NB: These are sample parameters to serve as examples: your site might have its own specific parameters required.**
 
 ## [Pushing events to the data Layer](/events-dl.js)
