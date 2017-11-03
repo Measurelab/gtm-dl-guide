@@ -9,7 +9,7 @@ dataLayer.push({
     'page_category': 'Sales',
     'language': 'EN',
     'currency': 'GBP',
-    'country': 'UK',
+    'country': 'UK'
 
 });
 
