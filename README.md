@@ -28,7 +28,7 @@ This code should be present on the transaction completion/thank you page, after 
 
 This code should be placed on every step of the checkout funnel. Checkout step numbering should be sorted out with us in advance of implementation.
 
-### [Product detail views](/ec.detail.js)
+### [Product detail views](/ec-detail.js)
 
 This code should be placed on individual product pages.
 
