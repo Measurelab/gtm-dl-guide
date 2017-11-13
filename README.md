@@ -59,3 +59,7 @@ This code should be added when a user clicks on an internal promotion.
 ### [Refunds](/ec-refund.js)
 
 This code should be included when a user completes the refund process.
+
+### [Product level custom dimensions](/product-level-cust-dim.js)
+
+This code pertains to the inclusion of product level custom dimensions.
