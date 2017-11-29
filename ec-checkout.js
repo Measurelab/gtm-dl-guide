@@ -7,8 +7,8 @@ dataLayer.push({
       'checkout': {
         'actionField': {'step': 1, 'option': 'Visa'}, // Checkout step number compulsory, option field optional.
         'products': [{                            // List of productFieldObjects.
-          'name': 'Vulcan - 6 Days',                 // Name or ID is required.
-          'id': 'VULC6-024059',                      // Name or ID is required.
+          'name': 'Vulcan - 6 Days',                 // Product name - required.
+          'id': 'VULC6-024059',                      // Product ID/SKU - required.
           'price': '799.99',                         // Unit price of the product - optional
           'brand': 'Federation Cruises',             // Brand of the product - optional
           'category': 'Holidays',                    // Category of the product  - optional
