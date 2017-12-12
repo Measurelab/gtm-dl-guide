@@ -63,3 +63,7 @@ This code should be included when a user completes the refund process.
 ### [Product level custom dimensions](/product-level-cust-dim.js)
 
 This code pertains to the inclusion of product level custom dimensions.
+
+### [Custom metrics](/custom-metrics.js)
+
+This code pertains to the inclusion of custom metrics.
