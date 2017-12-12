@@ -27,7 +27,6 @@ dataLayer.push({
          'category': 'Holidays',
          'variant': 'Week',
          'quantity': 2,
-         'coupon': '',
          'miles': 420                   // Example custom metric value
         },
         {
