@@ -7,7 +7,7 @@
 
 dataLayer.push({
 'event' : 'transaction',
-'total_miles' : 668                       // Example custom metric value
+'total_miles' : 668,                       // Example custom metric value
 'ecommerce' : {
  'currencyCode': 'GBP',
  'purchase': {
@@ -37,7 +37,7 @@ dataLayer.push({
          'brand': 'Federation Cruises',
          'category': 'Break',
          'variant': 'Weekend',
-         'quantity': 1
+         'quantity': 1,
          'miles': 248                   // Example custom metric value
         }]
      }
