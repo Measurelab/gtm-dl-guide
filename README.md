@@ -1,6 +1,6 @@
 ![Measurelab logo](/measurelab_black.png)
-# Measurelab's Google Tag Manager Data Layer Guide - code examples
-These are the code examples for our tag manager implementation guide.
+# Google Tag Manager (GTM) Data Layer Guide - code examples
+These are the code examples for our generic GTM implementation guide.
 
 Some of these actions or values may not be relevant to you—for more specifics about your own setup, please check your copy of the implementation guide and any further documentation provided with that.
 
