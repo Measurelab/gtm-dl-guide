@@ -1,4 +1,4 @@
-![Measurelab logo](http://sandpit.measurelab.co.uk/images/measurelab_black.png)
+![Measurelab logo](/measurelab_black.png)
 # Measurelab's Google Tag Manager Data Layer Guide - code examples
 These are the code examples for our tag manager implementation guide.
 
