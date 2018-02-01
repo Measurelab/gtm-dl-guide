@@ -64,6 +64,10 @@ This code should be included when a user completes the refund process.
 
 This code pertains to the inclusion of product level custom dimensions.
 
+### [Product level custom dimensions without rewrite](/product-level-cust-dim-index.js)
+
+This code pertains to the inclusion of product level custom dimensions without using a data layer variable to rewrite the ecommerce object (setting the dimension value directly).
+
 ### [Custom metrics](/custom-metrics.js)
 
 This code pertains to the inclusion of custom metrics.
