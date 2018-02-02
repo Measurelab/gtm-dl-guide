@@ -24,7 +24,7 @@ dataLayer.push({
          'variant': 'Week',
          'quantity': 2,
          'coupon': '',
-         'dimension1': 'Vulcan',                    // Example custom dimension value. The key is arbitrary—it will be rewritten in GTM to be a dimension value.
+         'dimension1': 'Vulcan',                    // Example custom dimension value.
          'dimension2' : 'M'                   // Example custom dimension value.
         },
         {
