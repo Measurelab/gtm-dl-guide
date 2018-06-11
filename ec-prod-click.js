@@ -12,7 +12,6 @@ dataLayer.push({
           'brand': 'Federation Cruises',             // Brand of the product - optional
           'category': 'Holidays',                    // Category of the product  - optional
           'variant': 'Week',                         // Variant of the product - optional
-          'list': 'Search Results',                  // List containing the product - optional
           'position': 1                              // Product's position within the list - optional
          }]
        }
