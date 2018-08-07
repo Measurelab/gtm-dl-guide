@@ -5,6 +5,7 @@ dataLayer.push({
   'ecommerce': {
     'currencyCode': 'GBP',                         // Local currency is optional.
     'add': {                                       // 'add' actionFieldObject measures.
+      'actionField': {'list': 'Holidays'},         // 'detail' actions have an optional list property which is necessary for list reports in GA
       'products': [{                               // List of productFieldObjects.
         'name': 'Vulcan - 6 Days',                 // Product name - required.
         'id': 'VULC6-024059',                      // Product ID/SKU - required.
@@ -12,7 +13,8 @@ dataLayer.push({
         'brand': 'Federation Cruises',             // Brand of the product - optional
         'category': 'Holidays',                    // Category of the product  - optional
         'variant': 'Week',                         // Variant of the product - optional
-        'quantity': 2                              // Quantity of the product - required
+        'quantity': 2,                              // Quantity of the product - required
+        'position': 1                              // Product's position within the list - if added from list
        }]
     }
   }

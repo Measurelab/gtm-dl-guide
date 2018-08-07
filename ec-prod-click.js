@@ -4,7 +4,7 @@ dataLayer.push({
     'event': 'product_click',
     'ecommerce': {
       'click': {
-        'actionField': {'list': 'Search Results'},      // Optional list property.
+        'actionField': {'list': 'Search Results'},      // Optional list property - optional but necessary for list reports in GA
         'products': [{
           'name': 'Vulcan - 6 Days',                 // Product name - required.
           'id': 'VULC6-024059',                      // Product ID/SKU - required.
@@ -12,7 +12,7 @@ dataLayer.push({
           'brand': 'Federation Cruises',             // Brand of the product - optional
           'category': 'Holidays',                    // Category of the product  - optional
           'variant': 'Week',                         // Variant of the product - optional
-          'position': 1                              // Product's position within the list - optional
+          'position': 1                              // Product's position within the list - optional but necessary for list reports in GA
          }]
        }
      }

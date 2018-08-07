@@ -5,7 +5,7 @@ dataLayer.push({
 'ecommerce': {
     'currencyCode': 'GBP',                       // Local currency is optional.
     'detail': {
-      'actionField': {'list': 'Holidays'},    // 'detail' actions have an optional list property.
+      'actionField': {'list': 'Holidays'},    // 'detail' actions have an optional list property which is necessary for list reports in GA
       'products': [{
         'name': 'Vulcan - 6 Days',                 // Product name - required.
         'id': 'VULC6-024059',                      // Product ID/SKU - required.
