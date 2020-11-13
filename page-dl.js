@@ -1,4 +1,5 @@
-//This is example code, and all values are example values. Please refer to the document provided to you for the values that should be used to populate the fields.
+//This is example code, and all values are example values. 
+//Please refer to the document provided to you for fields in use and the values that should be used to populate them.
 
 //Before the values are pushed, the data layer is declared—this is to prevent any possibility of multiple declarations
 //script block begins
